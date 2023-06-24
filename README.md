@@ -8,8 +8,9 @@ This project is designed to automate the process of conducting interviews for au
 # Prerequisites
 Before you begin, ensure that you have the following installed:
 
-Node.js
-MongoDB 
+- Node.js
+- MongoDB
+- React
 
 # Getting Started
 To set up the project locally, follow these steps:
