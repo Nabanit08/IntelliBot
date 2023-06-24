@@ -61,6 +61,10 @@ We welcome contributions to this project. To contribute, please follow these ste
 - Implement your changes.
 - Commit and push your changes to your fork.
 - Submit a pull request to the main repository.
+<img width="943" alt="image" src="https://github.com/Nabanit08/IntelliBot/assets/105920121/6b2d2d33-f611-460f-83ed-139982926d4d">
+<img width="941" alt="image" src="https://github.com/Nabanit08/IntelliBot/assets/105920121/ec7cd958-66d8-461c-b25a-cbf99dcab1e5">
+<img width="938" alt="image" src="https://github.com/Nabanit08/IntelliBot/assets/105920121/9a38d4fa-3abe-47e5-b028-cf1d1acac2ac">
 
+<img width="950" alt="image" src="https://github.com/Nabanit08/IntelliBot/assets/105920121/0beba385-e0ab-4466-8cec-9a7928252976">
 
 
