@@ -1,0 +1,34 @@
+.animated-text {
+    display: inline-block;
+    margin-top: 400px;
+   margin-left: 25%;
+   width: 700px;
+  }
+  
+  .letter {
+    display: inline-block;
+    font-size: 50px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    animation-fill-mode: both;
+    color: white;
+    opacity: 100;
+  }
+  
+  .space {
+    display: inline-block;
+    width: 0.5em;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 3;
+      transform: translateY(0);
+    }
+  }
