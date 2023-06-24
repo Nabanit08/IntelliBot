@@ -55,9 +55,12 @@ npm run build - Builds the client-side application for production.
 # Contributing
 We welcome contributions to this project. To contribute, please follow these steps:
 
+
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Implement your changes.
 - Commit and push your changes to your fork.
 - Submit a pull request to the main repository.
+
+
 
