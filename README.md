@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/your-username/automation-test-interview.git
+git clone https://github.com/Nabanit08/IntelliBot
 Navigate to the project directory:
 
 bash
