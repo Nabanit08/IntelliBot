@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.8); /* Adjust the opacity as needed */
+    backdrop-filter: blur(8px); /* Create the glass effect */
+    padding: 10px 20px;
+  }
+  
+  .logo img {
+    width: 80px;
+    border-radius: 10px;
+    height: 60px; /* Adjust the height as needed */
+  }
+  
+  .menu {
+    list-style: none;
+    font-weight: 600;
+   
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-item {
+    margin-left: 20px; /* Adjust the spacing between menu items */
+    cursor: pointer;
+  }
+  
