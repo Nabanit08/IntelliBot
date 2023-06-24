@@ -1,0 +1,24 @@
+.Homepage{
+    width: 100%;
+    height: 130vh;
+    margin-top: -200px;
+   background-image: url("https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=1000");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    display: flex;
+ margin-left: 41%;
+ margin-top: 20px;
+ gap: 20px;
+ font-weight: 500;
+}
+button{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: transparent;
+    border-radius: 10px;
+}
+button:hover{
+    width: 200px;
+}
